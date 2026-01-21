@@ -1,0 +1,19 @@
+{
+  "name": "guia-perguntas",
+  "version": "1.0.0",
+  "description": "Uma plataforma de pergunta e respostas estilo Yahoo respostas ",
+  "license": "ISC",
+  "author": "Thalita Pereira",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "ejs": "^4.0.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.1",
+    "sequelize": "^6.37.7"
+  }
+}
