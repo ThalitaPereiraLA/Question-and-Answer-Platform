@@ -1,4 +1,5 @@
-📝 Plataforma de Perguntas e Respostas
+## Plataforma de Perguntas e Respostas
+
 Uma aplicação web completa desenvolvida para facilitar a troca de conhecimento, onde usuários podem publicar dúvidas e responder a outros membros da comunidade.
 
 ## Tecnologias Utilizadas
