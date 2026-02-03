@@ -35,15 +35,8 @@ MySQL Workbench 8.0 CE
 
 2. Clonando o Repositório
 ```bash
-git clone https://github.com/seu-usuario/ask-and-discuss.git
-cd ask-and-discuss
-```
-3. Configurando o Banco de Dados
-Abra o MySQL Workbench e crie o banco de dados:
-
-SQL
-```bash
-CREATE DATABASE ask_discuss;
+git clone (https://github.com/ThalitaPereiraLA/Question-and-Answer-Platform.git)
+cd Question-and-Answer-Platform
 ```
 4. Instalando Dependências
 No terminal, execute:
